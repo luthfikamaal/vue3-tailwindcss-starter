@@ -1,29 +1,24 @@
-# vue3-tailwind-starter
+# Vue 3 Tailwind 
 
 This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## Includes
+* [Vite](http://vitejs.dev/)
+* [Vue 3](https://vuejs.org/)
+* [Vue router](https://router.vuejs.org/)
+* [TailwindCSS 3](https://tailwindcss.com/)
+* [Axios](https://www.npmjs.com/package/axios)
+* [Prettier](https://github.com/prettier/prettier)
+* [prettier-plugin-tailwind](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
+## Getting Started
 ```sh
+git clone https://github.com/luthfikamaal/vue3-tailwindcss-starter.git
+cd vue3-tailwindcss-starter
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
 ```
-
-### Compile and Minify for Production
-
 ```sh
-npm run build
+npm run tailwind
 ```
