@@ -1,15 +1,13 @@
 # Vue 3 Tailwind 
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Includes
+This starter template includes:
 * [Vite](http://vitejs.dev/)
 * [Vue 3](https://vuejs.org/)
 * [Vue router](https://router.vuejs.org/)
 * [TailwindCSS 3](https://tailwindcss.com/)
 * [Axios](https://www.npmjs.com/package/axios)
 * [Prettier](https://github.com/prettier/prettier)
-* [prettier-plugin-tailwind](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
+* [prettier-plugin-tailwind](https://github.com/Acidic9/prettier-plugin-tailwind)
 
 
 ## Getting Started
